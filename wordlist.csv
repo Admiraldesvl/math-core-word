@@ -308,9 +308,8 @@ codomain
 coefficient
 coercive
 cofactor
-cogenerated
+cogenerate
 cogenerator
-cogenerators
 coherent
 cohomological
 cohomology
@@ -441,10 +440,8 @@ contour
 contourplot
 contract
 contractible
-contraction
-contradicting
+contract
 contradiction
-contradicts
 contrapositive
 contrast
 contravariant
@@ -744,6 +741,7 @@ ensure
 enter
 entire
 entirely
+entropy
 entry
 envelope
 epic
@@ -760,6 +758,7 @@ equidimensional
 equidistant
 equidistributed
 equilibrium
+equip
 equipotence
 equipotent
 equipped
@@ -777,11 +776,10 @@ establishes
 estimate
 estimation
 estimator
-etc
+etc.
 euclidean
 evaluate
 evaluating
-evans
 even
 evenly
 event
@@ -817,7 +815,6 @@ expected
 experience
 experiment
 explain
-explained
 explicit
 explicitly
 exploratory
@@ -1213,8 +1210,6 @@ knot
 know
 known
 knuth
-kolmogorov
-kutta
 label
 labeled
 labeling
@@ -1500,7 +1495,6 @@ numerator
 numerical
 numerous
 obey
-obeys
 object
 objective
 observation
@@ -1637,7 +1631,6 @@ playing
 plot
 plotpoints
 plotted
-plotting
 plus
 point
 pointwise
@@ -1742,7 +1735,6 @@ proved
 proven
 provide
 provided
-provides
 proving
 pseudodifferential
 pseudoinverse
