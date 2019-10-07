@@ -112,7 +112,6 @@ artinian
 ascending
 ask
 assertion
-asserts
 asset
 assign
 assigned
@@ -156,7 +155,6 @@ bar
 base
 based
 basepoint
-basepoints
 basic
 basis
 bayes
@@ -170,7 +168,6 @@ behind
 belated
 belief
 belong
-belongs
 bend
 best
 bet
@@ -205,7 +202,7 @@ bouquet
 branch
 branching
 bridge
-brings
+bring
 brook
 built
 bundle
@@ -274,7 +271,6 @@ circular
 circulation
 circumstance
 claim
-claimed
 clash
 clashing
 class
@@ -394,7 +390,6 @@ connecting
 connection
 connective
 connectivity
-connects
 consecutive
 consequence
 consequent
@@ -466,7 +461,6 @@ correspondence
 corresponding
 corresponds
 coset
-cosets
 cosine
 cost
 could
@@ -535,7 +529,6 @@ deeper
 defective
 define
 defined
-defines
 definite
 definiteness
 definition
@@ -549,8 +542,6 @@ demonstrate
 demonstrated
 denominator
 denote
-denoted
-denotes
 dense
 densely
 density
@@ -559,7 +550,6 @@ depend
 dependence
 dependent
 depending
-depends
 depicted
 depth
 derivation
@@ -567,15 +557,13 @@ derivative
 derive
 derived
 descending
-descends
 describe
 described
-describes
 description
 designated
 designed
 desired
-destroys
+destroy
 detail
 detect
 detection
@@ -583,7 +571,6 @@ determinant
 determinated
 determine
 determined
-determines
 determining
 developed
 development
@@ -609,7 +596,6 @@ differentiable
 differential
 differentiate
 differentiation
-differs
 difficult
 diffusion
 digit
@@ -757,7 +743,6 @@ escape
 essential
 establish
 established
-establishes
 estimate
 estimation
 estimator
@@ -814,7 +799,6 @@ expressible
 expression
 extend
 extended
-extends
 extension
 exterior
 external
@@ -829,7 +813,6 @@ factorial
 factoring
 factorization
 fail
-fails
 failure
 fair
 faithful
@@ -901,10 +884,8 @@ full
 fully
 function
 functional
-functionals
 functor
 functorial
-functors
 fundamental
 furthermore
 future
@@ -923,7 +904,6 @@ generalized
 generally
 generate
 generated
-generates
 generating
 generation
 generator
@@ -969,11 +949,9 @@ hamming
 hand
 handwritten
 happen
-happens
 harbor
 hard
 harmonic
-hausdorff
 head
 heap
 heat
@@ -1022,7 +1000,6 @@ identity
 iff
 illustrate
 illustrated
-illustrates
 image
 imaginary
 immediate
@@ -1031,7 +1008,6 @@ immersion
 implication
 implicit
 implicitly
-implies
 imply
 importance
 important
@@ -1060,15 +1036,13 @@ independence
 independent
 independently
 indeterminate
-indeterminates
 index
 indicated
-indicates
+indicate
 indicator
 indispensable
 individual
 induced
-induces
 induction
 inductive
 inductively
@@ -1151,7 +1125,6 @@ investigate
 investment
 involuntary
 involution
-involves
 involving
 irrational
 irreducibility
@@ -1165,7 +1138,6 @@ isoperimetric
 issue
 item
 iterated
-iterates
 iteration
 iterative
 join
@@ -1279,7 +1251,7 @@ magnitude
 mailed
 main
 major
-majorizes
+majorize
 make
 making
 male
@@ -1298,7 +1270,6 @@ mass
 match
 matched
 matching
-matchings
 material
 mathematical
 mathematician
@@ -1340,7 +1311,6 @@ minimal
 minimax
 minimize
 minimizer
-minimizes
 minimizing
 minimum
 minor
@@ -1381,7 +1351,6 @@ moreover
 morgan
 morph
 morphism
-morphisms
 mostly
 motion
 move
@@ -1600,7 +1569,7 @@ played
 player
 playing
 plot
-plotpoints
+plotpoint
 plotted
 plus
 point
@@ -1648,7 +1617,6 @@ presentation
 presented
 preserve
 presheaf
-presheaves
 press
 pressure
 presupposed
@@ -1687,7 +1655,6 @@ project
 projectile
 projection
 projective
-projectives
 projectivity
 projector
 prolog
@@ -1921,7 +1888,6 @@ section
 sector
 seek
 seem
-seems
 segment
 select
 selected
@@ -2022,7 +1988,6 @@ solvable
 solve
 solved
 solver
-solves
 solving
 something
 sometimes
@@ -2106,7 +2071,6 @@ subclass
 subcover
 subdivision
 subformula
-subformulas
 subgraph
 subgraphs
 subgroup
@@ -2203,7 +2167,6 @@ tensor
 term
 terminal
 terminate
-terminates
 terminology
 terminus
 territory
@@ -2253,7 +2216,6 @@ transfer
 transform
 transformation
 transformed
-transforms
 transition
 transitive
 transitivity
